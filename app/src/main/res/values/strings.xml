@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Demo Simple Click</string>
+    <string name="text">Enter Something</string>
+    <string name="disabled">DISABLED</string>
+    <string name="enabled">ENABLED</string>
+</resources>
